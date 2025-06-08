@@ -5,7 +5,7 @@ dayNight.addEventListener('click', () => {
   banner.classList.toggle('night');
 });
 let typingEffect = new Typed("#text", {
-  strings: ["Anand", "Web Developer", "Coder", "Researcher"],
+  strings: ["Techie", "Web Developer", "Coder", "Researcher"],
   typeSpeed: 100,
   backSpeed: 60,
   loop: true,
